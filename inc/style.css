@@ -1,0 +1,43 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  outline: 0px;
+}
+ a{
+   display: inline-block;
+   text-decoration: none;
+}
+
+img{
+  border: 0px;
+}
+
+body{
+  box-sizing: border-box;
+}
+
+
+.well {
+  padding: 0px 20px;
+}
+.margin0 {
+  margin: 0px;
+}
+header {
+  margin-bottom: 50px;
+}
+footer {
+  padding: 20px 0px;
+  margin-top: 50px;
+}
+
+.loginHelp {
+  margin-top: 15px;
+}
+.profile form label {
+  font-weight: bold;
+}
+
+.card-header {
+  font-size: 30px;
+}
